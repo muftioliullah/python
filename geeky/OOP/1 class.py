@@ -1,5 +1,5 @@
 class Classname:
-    pass #blanck object
+    pass #blanck class
     
 #
 class Classname1(object):
